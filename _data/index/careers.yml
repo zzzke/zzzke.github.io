@@ -18,6 +18,33 @@
    
   icon: fa-plus-square
 
+- name:
+    detail: Boston University
+    
+  desc:
+    detail: College of Arts and Sciences, Computer Science master student.
+    
+  date:
+    detail: Aug 2017 – Present, Boston, MA
+    
+  job: 
+    detail: MSCS
+   
+  icon: fa-plus-square
+
+  - name:
+    detail: Indiana University Bloomington
+    
+  desc:
+    detail: Double major in computer Science and mathematics.
+    
+  date:
+    detail: Jan 2014 – May 2017, Bloomington, IN
+    
+  job: 
+    detail: BS of Computer Science and BA of Mathematics
+   
+  icon: fa-plus-square
 #- name:
 #    detail: Company A
 #    i18n: company_a
