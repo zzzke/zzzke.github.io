@@ -18,6 +18,7 @@
    
   icon: fa-plus-square
 
+
 - name:
     detail: Boston University
     
@@ -32,7 +33,7 @@
    
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: Indiana University Bloomington
     
   desc:
