@@ -1,29 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Hubei Zoneber Information Technology Co.
+    i18n: 
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Worked with senior software engineers to develop an Android administration app used in the
+            government official administration to allow them record and query members&#39; information,
+            providing a cloud platform to study and communicate.Implemented multiple user interfaces for the administration platform including login,
+            registration interface and succinct designs that help new users to get familiar with the
+            application.
+    i18n: 
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: June 2017 – Aug 2017, Yichang, China
+    i18n: 
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Software Engineering Intern
+    i18n: 
   icon: fa-plus-square
 
-- name:
-    detail: Company B
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+  
